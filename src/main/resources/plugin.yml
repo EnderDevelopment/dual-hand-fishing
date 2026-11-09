@@ -1,0 +1,5 @@
+name: DualFishing
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: Allows players to fish with both hands at once.
